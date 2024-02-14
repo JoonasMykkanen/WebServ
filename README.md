@@ -1,5 +1,4 @@
 # Webserv: Lightweight HTTP Server
-**  PLEASE NOTE: This was first bigger c++ project and this represents things NOT to do. Structure is not optimal and we would do it again differently but because of school deadlines, it got finnished as is. **
 
 ## Introduction
 
