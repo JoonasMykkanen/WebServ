@@ -52,10 +52,6 @@ server {
 }
 ```
 
-## Testing
-
-To ensure the server's correctness and resilience, use various testing methods. A provided tester can be used, and manual tests with browsers or scripting languages like Python, Golang, or C++ are recommended.
-
 ## Comparison with NGINX
 
 To understand the behavior and features of Webserv, compare its behavior with NGINX, especially in areas like `server_name` handling.
